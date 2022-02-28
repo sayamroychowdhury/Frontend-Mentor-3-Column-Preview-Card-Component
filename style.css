@@ -85,7 +85,7 @@ p:nth-child(3){
     color: white;
 }
 
-@media (max-width: 420px){
+@media (max-width: 475px){
 
     main{
         align-items: flex-start;
@@ -94,7 +94,7 @@ p:nth-child(3){
     section{
         justify-content: center;
         align-items: center;
-        margin: 5rem 0px; 
+        padding: 5rem 0;
     }
 
     .sedan{
